@@ -1,0 +1,32 @@
+.corpo{
+    width: 500px;
+    background: #FFFFFF;
+    padding: 30px;
+    border-bottom: 5px solid #CCCCCC;
+}
+
+.corpo hr{
+    border: 3px dotted;
+    width: 450px;
+}
+
+.corpo h1{
+    color:  #f7b600;
+}
+.pp{
+    color:  #f7b600;
+    font-size: 18px;
+    font-weight:bold;
+
+}
+
+.corpo img{
+    width: 500px;
+}
+
+.faixa{
+    width: 700px;
+    border-top: 10px double #CCCCCC;
+
+}
+

@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background: #cccccc;
+    
+    
+
+    
+}
+
+.corpo{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-top: 30px solid #CCCCCC;
+    
+    width: 100% ;
+    background: #CCCCCC;
+}
+
+.corpo-postagem{
+    
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    
+}
+
+.corpo-infor{
+    background: rgb(225, 225, 232);
+    width: 200px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}

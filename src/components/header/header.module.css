@@ -1,0 +1,38 @@
+.corpo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100;
+    height: 136px;
+    background: #f7b600;
+    padding-top: 20px;
+
+
+}
+
+.corpo span{
+    font-size: 40px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.black{
+    color: #4E4E4E;
+}
+
+.white{
+    color: #FFFFFF;
+}
+
+.corpo2{
+    display: flex;
+    justify-content:space-between;
+    width: 600px;
+    padding: 10px;
+}
+
+.corpo2 nav {
+    font-size:18px;
+    color: white;
+    padding: 8px 12px;
+    font-family: "Trebuchet MS", Helvetica;
+}
